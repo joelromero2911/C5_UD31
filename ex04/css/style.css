@@ -1,0 +1,21 @@
+input{
+    text-align: right;
+}
+#calc{
+    width: 250px;
+    height: 250px;
+    border: blue 1px solid;
+    background-color: lightyellow;
+    text-align: center;
+}
+#calc div{
+    margin: auto;
+}
+button{
+    width: 40px;
+    margin-top: 10px;
+}
+input{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
